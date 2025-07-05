@@ -1,11 +1,6 @@
 # HriraSoulayma
 
 
-[![Soulayma's GitHub Avatar](https://avatars.githubusercontent.com/u/70114212?v=4&s=100)](https://github.com/soulayma9900)
-
-I hold a Bachelor's degree in Big Data and Data Analysis and I am currently a student in an engineering program. I am passionate about prompt engineering, OpenAI technologies, and web scraping.
-
-
 Ola 👋, I'm Soulayma Hrira  
 
 💫 About Me:  
